@@ -133,7 +133,6 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:background="@drawable/ripple2"
-            android:clickable="true"
             android:text="HE OLVIDADO MI CONTRASEÑA"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/butt_acceder" />
@@ -143,7 +142,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="4dp"
-            android:background="@drawable/ripple2"
             android:clickable="true"
             android:text="QUIERO REGISTRARME EN LA APLICACIÓN"
             app:layout_constraintLeft_toLeftOf="parent"
