@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "927177281741",
+    "firebase_url": "https://masterlistas-82cf1.firebaseio.com",
+    "project_id": "masterlistas-82cf1",
+    "storage_bucket": "masterlistas-82cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927177281741:android:d0d8853f87d1d68d",
+        "android_client_info": {
+          "package_name": "com.fva.masterlistas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927177281741-4gvesvdhdis628nsf3oqrnbjqq1a3vqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-HLFMeC6AgMwz85KijetgXzWDLO7MVdg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
