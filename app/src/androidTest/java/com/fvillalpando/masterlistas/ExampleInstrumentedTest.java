@@ -1,4 +1,4 @@
-package com.fva.masterlistas;
+package com.fvillalpando.masterlistas;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

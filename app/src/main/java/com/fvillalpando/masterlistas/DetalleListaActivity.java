@@ -1,4 +1,4 @@
-package com.fva.masterlistas;
+package com.fvillalpando.masterlistas;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

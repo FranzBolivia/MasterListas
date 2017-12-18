@@ -31,7 +31,7 @@
             <item
                 android:id="@+id/nav_compartir"
                 android:icon="@android:drawable/ic_menu_share"
-                android:title="Compartir" />
+                android:title="Compartir APP" />
         </menu>
     </item>
 </menu>

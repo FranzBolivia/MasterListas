@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MasterLists</string>
+
+    <string name="drawer_open">navigation drawer open</string>
+    <string name="drawer_close">navigation drawer close</string>
+    <string name="transition_name_img">transition:IMG</string>
+    <string name="iniciar_sesi_n">Log in</string>
+    <string name="nombre_de_usuario_o_correo">Name user or mailo</string>
+    <string name="contrase_a">Password</string>
+    <string name="recordarme">Remember </string>
+    <string name="mostrar_contrase_a">Show Password</string>
+    <string name="iniciarsesi_n">Login</string>
+    <string name="borrar">Delete</string>
+    <string name="he_olvidado_mi_contrase_a">I FORGOT MY PASSWORD</string>
+    <string name="quiero_registrarme_en_la_aplicaci_n">I want to register to the application</string>
+    <string name="iniciar_sesi_n_con_facebook">Log in with Facebook</string>
+    <string name="iniciar_sesi_n_con_google">Log in with Google</string>
+    <string name="rec_dat_usuario">Remember data user:</string>
+    <string name="resource_si">yes</string>
+    <string name="resource_no">no</string>
+    <!-- Transicion -->
+
+
+</resources>
